@@ -1,0 +1,8 @@
+div {
+    background-color: 0c0040;
+    background-blend-mode: hard-light;
+    display: block;
+    border-style: solid;
+    border-color: #4e1500;
+    border-width: 5px;
+}

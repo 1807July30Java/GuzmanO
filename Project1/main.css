@@ -1,0 +1,17 @@
+#background {
+    background-image: url(images/background_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: auto;
+    height: auto;
+
+}
+
+form {
+    width: 80%;
+    display: block;
+    height: 250px;
+    text-align: center;
+    color:white;
+}

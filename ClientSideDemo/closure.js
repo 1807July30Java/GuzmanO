@@ -2,6 +2,8 @@
 window.onload = function() {
     console.log("page loaded!");
     counter = getCount();
+    bearCounter = getCount("bear");
+    penguinCo
 }
 function getCount(noun) {
     var count = 0;

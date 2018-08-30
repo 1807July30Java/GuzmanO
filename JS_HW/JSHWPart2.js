@@ -187,10 +187,8 @@ Hide the name if shown.
 
 function showHideEvent() {
     
-    
 
-
-}
+};
 
 /*10. Current Time
 
@@ -208,7 +206,7 @@ function currentTime() {
     var time = hour + " : " + min + " : " + second;
 
     document.getElementById("currentTime").innerHTML = time;
-}
+};
 setInterval(currentTime, 1000);
 
 
@@ -220,13 +218,12 @@ Regarding this element:
 Three seconds after a user clicks on this element, change the text to a random color.*/
 
 function delay() {
-    
     var r = Math.floor(Math.random() * 255);
     var g = Math.floor(Math.random() * 255);
     var b = Math.floor(Math.random() * 255);
 
     document.getElementById("helloWorld").style.color = "rgb("+r+','+g+','+b+')';
-}
+};
 
 
 /*12. Walk the DOM
@@ -239,4 +236,4 @@ Use recursion.
 On each node, call func(node).*/
 function walkTheDOM(node, func) {
     
-}
+};

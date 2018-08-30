@@ -1,0 +1,14 @@
+#reimbursement {
+	text-align: center;
+	display: block;
+	min-width: 300px;
+	max-width: 900px;
+	width: 500px;
+	height: auto;
+	float: center;
+	margin: auto;
+}
+div.contentContainer {
+	width:90%;
+	margin:5%;
+}
